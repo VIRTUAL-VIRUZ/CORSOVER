@@ -158,8 +158,8 @@ Phase 4: CORS Vulnerability Scanning
 │ Severity: High                                  │
 │                                                 │
 │ Details:                                        │
-│ • Origin Sent: https://evil.com                │
-│ • ACAO Response: https://evil.com              │
+│ • Origin Sent: https://evil.com                 │
+│ • ACAO Response: https://evil.com               │
 │ • Credentials: true                             │
 │                                                 │
 │ Proof of Concept:                               │
