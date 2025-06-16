@@ -558,7 +558,7 @@ class CORSScanner:
 ║                                                                     ║
 ║                 Advanced CORS Vulnerability Scanner                 ║
 ║                    Professional Security Tool                       ║
-║                                                                     ║
+║                      AUTHOR: MUHAMMED FARHAN                            ║
 ╚═════════════════════════════════════════════════════════════════════╝
         """
         
